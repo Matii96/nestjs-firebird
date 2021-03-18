@@ -16,6 +16,7 @@ export class FirebirdModule implements OnModuleInit {
       useValue: options
     };
     return {
+      global: true,
       module: FirebirdModule,
       providers: [firebirdModuleOptions]
     };
