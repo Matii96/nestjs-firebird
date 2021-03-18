@@ -21,7 +21,7 @@
 ## Installation
 
 ```bash
-$ npm i --save @nestjs/firebird
+$ npm i --save https://github.com/Matii96/nestjs-firebird.git
 ```
 
 ## Quick Start
